@@ -1,0 +1,11 @@
+noun: John
+agent/patient: agent
+
+noun: vase
+agent/patient: patient
+
+noun: nurse
+agent/patient: agent
+
+noun: mango
+agent/patient: patient
