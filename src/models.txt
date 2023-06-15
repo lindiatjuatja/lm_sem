@@ -1,0 +1,8 @@
+gpt2 medium
+gpt2 large
+gpt2 xl
+bloom 560m
+bloom 1b1
+bloom 1b7
+bloom 3b
+bloom 7b1
