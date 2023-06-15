@@ -1,0 +1,94 @@
+[ 
+    {"verb": "sells", 
+    "adverbs": ["easily", "well", "quickly"],
+    "nouns_and_labels": [ ["toy", "patient"], ["book", "patient"], ["novel", "patient"], ["magazine", "patient"], ["hat", "patient"], ["lotion", "patient"], ["album", "patient"], ["car", "patient"], ["SUV", "patient"], ["product", "patient"], ["make", "patient"], ["item", "patient"], ["CD", "patient"], ["drug", "patient"], ["snack", "patient"], ["salesman", "agent"], ["saleswoman", "agent"], ["businessman", "agent"], ["businesswoman", "agent"], ["trader", "agent"], ["peddler", "agent"], ["telemarketer", "agent"], ["dealer", "agent"], ["shopkeeper", "agent"] ]
+    },
+    {"verb": "drives", 
+    "adverbs": ["nicely", "smoothly", "well"],
+    "nouns_and_labels": [ ["car", "patient"], ["SUV", "patient"], ["truck", "patient"], ["convertible", "patient"], ["vehicle", "patient"], ["tank", "patient"], ["bus", "patient"], ["tractor", "patient"], ["van", "patient"], ["driver", "agent"], ["person", "agent"], ["chauffeur", "agent"] ]
+    },
+    {"verb": "flies",
+    "adverbs": ["nicely", "smoothly", "well"],
+    "nouns_and_labels": [ ["plane", "patient"], ["kite", "patient"], ["jet", "patient"], ["aircraft", "patient"], ["pilot", "agent"], ["person", "agent"], ["aviator", "agent"], ["captain", "agent"] ]
+    },
+    {"verb": "cooks", 
+    "adverbs": ["nicely", "well", "terribly"],
+    "nouns_and_labels": [ ["mushroom", "patient"], ["pepper", "patient"], ["fish", "patient"], ["salmon", "patient"], ["tuna", "patient"], ["fillet", "patient"], ["vegetable", "patient"], ["herb", "patient"], ["meat", "patient"], ["ingredient", "patient"], ["steak", "patient"], ["chef", "agent"], ["cook", "agent"], ["baker", "agent"], ["caterer", "agent"] ]
+    },
+    {"verb": "bakes", 
+    "adverbs": ["nicely", "terribly", "well"],
+    "nouns_and_labels": [ ["pizza", "patient"], ["potato", "patient"], ["bread", "patient"], ["cake", "patient"], ["pastry", "patient"], ["dough", "patient"], ["pie", "patient"], ["clay", "patient"], ["patissier", "agent"], ["chef", "agent"], ["cook", "agent"], ["baker", "agent"], ["person", "agent"], ["confectioner", "agent"] ]
+    },
+    {"verb": "reads", 
+    "adverbs": ["nicely", "well"],
+    "nouns_and_labels": [ ["passage", "patient"], ["poem", "patient"], ["verse", "patient"], ["line", "patient"], ["passage", "patient"], ["script", "patient"], ["abstract", "patient"], ["essay", "patient"], ["letter", "patient"], ["report", "patient"], ["student", "agent"], ["orator", "agent"], ["person", "agent"], ["narrator", "agent"], ["announcer", "agent"], ["broadcaster", "agent"], ["teacher", "agent"] ]
+    },
+    {"verb": "paints", 
+    "adverbs": ["easily", "terribly", "well", "beautifully"],
+    "nouns_and_labels": [ ["wall", "patient"], ["fabric", "patient"], ["glass", "patient"], ["canvas", "patient"], ["wood", "patient"], ["surface", "patient"], ["panel", "patient"], ["painter", "agent"], ["artist", "agent"], ["person", "agent"], ["illustrator", "agent"], ["portraitist", "agent"] ]
+    },
+    {"verb": "writes", 
+    "adverbs": ["quickly", "easily"],
+    "nouns_and_labels": [ ["section", "patient"], ["passage", "patient"], ["proposal", "patient"], ["code", "patient"], ["essay", "patient"], ["student", "agent"], ["person", "agent"], ["notetaker", "agent"], ["journalist", "agent"], ["scribe", "agent"], ["doctor", "agent"], ["professor", "agent"], ["essayist", "agent"], ["blogger", "agent"], ["poet", "agent"], ["novelist", "agent"], ["author", "agent"] ]
+    },
+    {"verb": "performs", 
+    "adverbs": ["easily"],
+    "nouns_and_labels": [ ["routine", "patient"], ["song", "patient"], ["choreography", "patient"], ["sonata", "patient"], ["concerto", "patient"], ["scene", "patient"], ["musician", "agent"], ["person", "agent"], ["actor", "agent"], ["comedian", "agent"], ["dancer", "agent"], ["singer", "agent"], ["soloist", "agent"] ]
+    },
+    {"verb": "photographs", 
+    "adverbs": ["nicely", "beautifully"],
+    "nouns_and_labels": [ ["building", "patient"], ["animal", "patient"], ["landscape", "patient"], ["lake", "patient"], ["mountain", "patient"], ["model", "patient"], ["view", "patient"], ["photographer", "agent"], ["cameraman", "agent"] ]
+    },
+    {"verb": "plays", 
+    "adverbs": ["nicely", "beautifully"],
+    "nouns_and_labels": [ ["cello", "patient"], ["piano", "patient"], ["violin", "patient"], ["instrument", "patient"], ["flute", "patient"], ["clarinet", "patient"], ["musician", "agent"], ["violinist", "agent"], ["cellist", "agent"], ["pianist", "agent"], ["drummer", "agent"], ["flutist", "agent"], ["clarinetist", "agent"] ]
+    },
+    {"verb": "cuts", 
+    "adverbs": ["nicely", "roughly", "cleanly", "effortlessly"],
+    "nouns_and_labels": [ ["meat", "patient"], ["cardboard", "patient"], ["packaging", "patient"], ["board", "patient"], ["paper", "patient"], ["fabric", "patient"], ["hairdresser", "agent"], ["barber", "agent"], ["butcher", "agent"], ["chef", "agent"] ]
+    },
+    {"verb": "cleans", 
+    "adverbs": ["easily", "quickly", "effortlessly"],
+    "nouns_and_labels": [ ["jewelry", "patient"], ["window", "patient"], ["countertop", "patient"], ["floor", "patient"], ["surface", "patient"], ["carpet", "patient"], ["windshield", "patient"], ["mirror", "patient"], ["pot", "patient"], ["silverware", "patient"], ["bedding", "patient"], ["janitor", "agent"], ["maid", "agent"], ["cleaner", "agent"], ["housekeeper", "agent"], ["busboy", "agent"], ["waiter", "agent"], ["waitress", "agent"] ]
+    },
+    {"verb": "washes", 
+    "adverbs": ["easily", "quickly"],
+    "nouns_and_labels": [ ["bottle", "patient"], ["tub", "patient"], ["shirt", "patient"], ["car", "patient"], ["windshield", "patient"], ["dish", "patient"], ["bedding", "patient"], ["blanket", "patient"], ["bowl", "patient"], ["worker", "agent"], ["maid", "agent"], ["cleaner", "agent"], ["busboy", "agent"] ]
+    },
+    {"verb": "shaves", 
+    "adverbs": ["neatly", "nicely", "smoothly"],
+    "nouns_and_labels": [ ["beard", "patient"], ["stubble", "patient"], ["sideburn", "patient"], ["barber", "agent"], ["hairdresser", "agent"] ]
+    },
+    {"verb": "packs", 
+    "adverbs": ["well", "easily"],
+    "nouns_and_labels": [ ["crate", "patient"], ["lunchbox", "patient"], ["basket", "patient"], ["container", "patient"], ["coat", "patient"], ["jacket", "patient"], ["bag", "patient"], ["duffle", "patient"], ["food", "patient"], ["suitcase", "patient"], ["tent", "patient"], ["backpack", "patient"], ["mover", "agent"], ["traveller", "agent"], ["clerk", "agent"], ["worker", "agent"], ["backpacker", "agent"], ["roadtripper", "agent"], ["hiker", "agent"], ["camper", "agent"] ]
+    },
+    {"verb": "stitches", 
+    "adverbs": ["easily", "smoothly", "nicely", "poorly"],
+    "nouns_and_labels": [ ["silk", "patient"], ["quilt", "patient"], ["cotton", "patient"], ["cut", "patient"], ["cloth", "patient"], ["fabric", "patient"], ["wound", "patient"], ["surgeon", "agent"], ["tailor", "agent"], ["machine", "agent"], ["upholsterer", "agent"], ["dressmaker", "agent"] ]
+    },
+    {"verb": "embroiders",
+    "adverbs": ["well", "nicely", "beautifully", "poorly"],
+    "nouns_and_labels": [ ["cushion", "patient"], ["thread", "patient"], ["cloth", "patient"], ["fabric", "patient"], ["tailor", "agent"], ["seamster", "agent"], ["seamstress", "agent"] ] 
+    },
+    {"verb": "knits",
+    "adverbs": ["well", "nicely", "beautifully", "poorly", "easily"],
+    "nouns_and_labels": [ ["yarn", "patient"], ["wool", "patient"], ["pattern", "patient"], ["person", "agent"], ["lady", "agent"], ["man", "agent"], ["woman", "agent"] ]
+    },
+    {"verb": "sews",
+    "adverbs": ["well", "nicely", "beautifully", "poorly"],
+    "nouns_and_labels": [ ["fabric", "patient"], ["material", "patient"], ["tailor", "agent"], ["seamster", "agent"], ["machine", "agent"] ] 
+    },
+    {"verb": "turns",
+    "adverbs": ["smoothly", "easily", "nicely", "roughly"],
+    "nouns_and_labels": [ ["screw", "patient"], ["knob", "patient"], ["car", "patient"], ["bike", "patient"], ["motorcycle", "patient"], ["valve", "patient"], ["handle", "patient"], ["driver", "agent"], ["racer", "agent"], ["motorist", "agent"], ["pilot", "agent"] ]
+    },
+    {"verb": "carves",
+    "adverbs": ["beautifully", "nicely", "cleanly", "flawlessly"],
+    "nouns_and_labels": [ ["pumpkin", "patient"], ["wood", "patient"], ["stone", "patient"], ["gem", "patient"], ["ice", "patient"], ["steak", "patient"], ["turkey", "patient"], ["sculptor", "agent"], ["person", "agent"], ["jeweler", "agent"], ["artisan", "agent"], ["carver", "agent"] ]
+    },
+    {"verb": "sculpts",
+    "adverbs": ["beautifully", "nicely", "cleanly"],
+    "nouns_and_labels": [ ["wood", "patient"], ["stone", "patient"], ["marble", "patient"], ["ice", "patient"], ["clay", "patient"], ["sculptor", "agent"], ["person", "agent"], ["potter", "agent"], ["mason", "agent"], ["carver", "agent"] ]
+    }
+]
